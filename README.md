@@ -23,7 +23,7 @@ I'm a frontend lover! Always liked to work with web and lately I'm in love with 
 <br />
 
 ## Last Activities
-[User Authentication](https://github.com/kevinka999/user_authentication), a simple aplication to authenticate a user using with Json Web Token and Bcrypt.
+[User Authentication](https://github.com/kevinka999/user_authentication), a simple aplication to authenticate a user with Json Web Token and Bcrypt.
 This project was developed using Next.js framework to build the Website and API.
 
 <details>
