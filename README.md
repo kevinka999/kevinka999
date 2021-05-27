@@ -1,9 +1,7 @@
 # Hello guys, I'm Kevin Katzer :smile:
 
 ## Want to know a little about me?
-My name is Kevin Katzer, and I'm a Fullstack Web Developer from Brazil!
-Actually I'm working most with C# .NET, sometimes Core and sometimes Framework, everything will depends on the moon phase (just kidding).
-I'm a frontend lover! Always liked to work with web and lately I'm in love with React.js. Behind the computer, I like to practice some sports, I'm very eclectic, so every week my sports schedule changes :P
+My name is Kevin Katzer and I'm a Fullstack Web Developer from Brazil! Actually I'm working mostly with C# .NET, sometimes Core and sometimes Framework. Everything depends on the moon phase (just kidding). I'm a frontend lover! Always liked to work with web and lately I'm in love with React.js. Away from the computer, I like to practice sports, I'm very eclectic so every week my sports schedule changes :P
 
 ### Feel free to make contact!
 [![Linkedin](https://img.shields.io/badge/Profile-on%20Linkedin%20-blue)](https://www.linkedin.com/in/kevin-katzer-618926152/)
