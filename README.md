@@ -10,7 +10,7 @@ I'm a frontend lover! Always liked to work with web and lately I'm in love with 
 [![Email](https://img.shields.io/badge/Send-an%20Email-orange)](mailto:kevinka999@gmail.com)
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -20,20 +20,21 @@ I'm a frontend lover! Always liked to work with web and lately I'm in love with 
 <img align="left" alt="MySQL" width="26px" src="https://mysqlserverteam.com/wp-content/uploads/2018/01/MySQL_Icon_256x256.png" />
 <img align="left" alt="Postgres" width="26px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-
 <br />
 
----
+## Last Activities
+[User Authentication](https://github.com/kevinka999/user_authentication), a simple aplication to authenticate a user using with Json Web Token and Bcrypt.
+This project was developed using Next.js framework to build the Website and API.
 
 <details>
-  <summary>:tada: Check it out some of my projects</summary>
+  <summary>:tada: Check it out some others projects</summary>
   
 <!--START_SECTION:activity-->
-1. [User Authentication](https://github.com/kevinka999/user_authentication), a simple page to authenticate a user with Json Web Token and Bcrypt.
-This project was developed using Next.js framework to build the Website and API.
-2. [School Management](https://github.com/kevinka999/Escola), a API developed using C# with the purpose to manage the student's grade.
-3. Order Management, a [Website](https://github.com/kevinka999/gerenciador-pedidos-website) and an [API](https://github.com/kevinka999/gerenciador-pedidos-api) to manage orders. The Website was developed using React.js and the API was developed using Adonis JS 5.0.
+1. [School Management](https://github.com/kevinka999/Escola), a API developed using C# with the purpose to manage the student's grade.
+2. Order Management, a [Website](https://github.com/kevinka999/gerenciador-pedidos-website) and an [API](https://github.com/kevinka999/gerenciador-pedidos-api) to manage orders. The Website was developed using React.js and the API was developed using Adonis JS 5.0.
 Both are deployed on Heroku, so check the readme in the respective repository to try out.
-4. [https://github.com/kevinka999/Estacionamento](Parking), a parking system to manage active cars in the park. The website was developed using React.js and the API was developed using C#.
+3. [https://github.com/kevinka999/Estacionamento](Parking), a parking system to manage active cars in the park. The website was developed using React.js and the API was developed using C#.
+  
+You can check my repo page with all of them.
 
 </details>
