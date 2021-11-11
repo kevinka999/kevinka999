@@ -1,4 +1,4 @@
-# Hello guys, I'm Kevin Katzer :smile:
+# Welcome into my github profile
 
 ## Want to know a little about me?
 My name is Kevin Katzer and I'm a Fullstack Web Developer from Brazil! Actually I'm working mostly with C# .NET, sometimes Core and sometimes Framework. Everything depends on the moon phase (just kidding). I'm a frontend lover! Always liked to work with web and lately I'm in love with React.js. Away from the computer, I like to practice sports, I'm very eclectic so every week my sports schedule changes :P
