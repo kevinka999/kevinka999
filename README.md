@@ -1,6 +1,4 @@
 # Welcome into my github profile
-
-### Summary
 Software Engineer since 2018. Skilled in front-end and back-end development. Today my focus is mainly in Javascript but I've a great experience with .NET
 
 **Javascript | React.js | Typescript | .NET Core | GraphQL | Rest API | Agile Methodoly | SOLID Principles**
